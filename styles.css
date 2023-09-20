@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+.header {
+    background-color: #1f2937;
+    margin: 0;
+    width: 100%;
+    height: 500px;
+}
+
+.container  {
+    
+    background-color: pink;
+    height: 30px;
+}
+
+.nav-link {
+    margin: 10px;
+}
+
+.nav {
+    position: absolute;
+    text-align: right;
+    align-items: right;
+}
